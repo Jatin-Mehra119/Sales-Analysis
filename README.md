@@ -31,9 +31,10 @@
 	- Created new features from date and time feature.
 ---
 ### **Exploratory Data Analysis (EDA):**
--	**Total Sales:** 3,22,966.74
--	**Average Gross Income Per Transaction:** 15.37
--	**Total Gross Income:** 15379.36	
+- **Total Sales**: 322966.749
+- **Average Sales**: 322.966749
+- **Toal Gross Income**: 15379.368999999999
+- **Average Gross** Income: 15.379368999999999	
 ---
 ###  **Average Gross Income by Day of Week**:
 	
@@ -46,6 +47,8 @@
 | Thursday           | 15.048421            |
 | Friday           | 16.295241            |
 | Saturday           | 15.917613            |
+
+- Friday has the highest average gross income compared to other days: 6.18 % More than average
 ---
 
 ### **Citywise Sales & Revenue**:
@@ -58,6 +61,8 @@
 
 ![image](https://github.com/user-attachments/assets/7fa8e5e8-a421-465c-976e-40a95a430b41)
 
+- Naypyitaw has the highest gross income compared to other cities: 2.71 % More than average
+- Yangon has the highest quantity compared to other cities: 1.22 % More than average
 ---
 ### **Customer Behavior**:
 
@@ -70,6 +75,8 @@
 
 ![image](https://github.com/user-attachments/assets/09392e1f-020e-4d77-bc66-e2eeda2b7488)
 
+- Member has higher total sales compared to Normal: 3.45 % More than average
+- Member has higher quantity compared to Normal: 2.20 % More than average
 ---
 -  Female vs Male Distributions:
 
@@ -79,6 +86,9 @@
 | Male   | 155083.824  | 2641     | 7384.944     |
 
 ![image](https://github.com/user-attachments/assets/b7489be1-5fcf-4286-8aa6-368c4bb82137)
+
+- The female has produced the highest gross income compared to male : 3.96 % More than average
+- The female has produced the highest quantity compared to male : 4.14 % More than average
 ---
 ### Ratings Trends
 
@@ -90,6 +100,7 @@
 | Naypyitaw  | C      | 7.072866 |
 | Yangon     | A      | 7.027059 |
 
+- Branch A has the highest average rating compared to other branches: 1.44 % More than average
 ---
 
 -  Customer Type Ratings Trends:
@@ -103,6 +114,7 @@
 
 ![image](https://github.com/user-attachments/assets/a8d5c325-7529-4542-aac2-21219237d957)
 
+- Normal Customers are more statisfied compared to Members: 0.93 % More than Members
 ---
 ### Product Line Analysis:
 - Distribution
@@ -118,6 +130,7 @@
 
 ![image](https://github.com/user-attachments/assets/aedb3872-9a0f-4bca-9f97-6be1afc0ca21)
 
+- Electronic accessories has the highest quantity sold compared to other product lines: 5.74 % More than average
 ---
 - Sales performance of product line:
 
@@ -132,30 +145,73 @@
 
 ![image](https://github.com/user-attachments/assets/1444726f-b9f4-4f73-a5fb-21c86fccbb2b)
 
+- Food and beverages has the highest gross income compared to other product lines: 4.30 % More than average
+
 ---
 -  Product line performance by Day:
 
 ![image](https://github.com/user-attachments/assets/b68c659f-1dc9-452d-90fe-6b54d71b7174)
+
+
+| **Product Line**          | **Day with Max Sales** | **Percentage Above Average** |
+|----------------------------|------------------------|-------------------------------|
+| Electronic Accessories     | 19                    | 129.87%                      |
+| Fashion Accessories        | 8                     | 119.96%                      |
+| Food and Beverages         | 27                    | 82.77%                       |
+| Health and Beauty          | 15                    | 138.88%                      |
+| Home and Lifestyle         | 3                     | 94.29%                       |
+| Sports and Travel          | 17                    | 95.43%                       |
+
 
 ---
 - Product line performance by Day of Week:
 
 ![image](https://github.com/user-attachments/assets/2297e736-8104-4b72-9195-5b8b517c4f50)
 
+## Product Line Performance Analysis
+
+| **Product Line**          | **Day with Max Sales** | **Percentage Above Average** |
+|----------------------------|------------------------|-------------------------------|
+| Electronic Accessories     | Thursday              | 53.55%                       |
+| Fashion Accessories        | Saturday              | 38.91%                       |
+| Food and Beverages         | Wednesday             | 36.03%                       |
+| Health and Beauty          | Tuesday               | 27.05%                       |
+| Home and Lifestyle         | Sunday                | 43.69%                       |
+| Sports and Travel          | Saturday              | 32.39%                       |
+
+
 ---
 - Product line performance by Hours:
 
 ![image](https://github.com/user-attachments/assets/c3b59b41-6a07-471b-b614-9b8f3377b4f5)
+
+## Hourly Performance Analysis by Product Line
+
+| **Product Line**          | **Hour with Max Sales** | **Percentage Above Average** |
+|----------------------------|-------------------------|-------------------------------|
+| Electronic Accessories     | 19                    | 18.95%                       |
+| Fashion Accessories        | 13                    | 36.59%                       |
+| Food and Beverages         | 19                    | 59.45%                       |
+| Health and Beauty          | 14                    | 53.28%                       |
+| Home and Lifestyle         | 17                    | 48.52%                       |
+| Sports and Travel          | 19                    | 56.63%                       |
+
 
 ---
 - Sales Trend over time:
 
 ![image](https://github.com/user-attachments/assets/d0d76dfe-d421-42eb-a173-8239229d04df)
 
+- Month with highest sales: 1
+- Percentage by which it exceeds the average sales: 8.02%
+
 ---
 - Hourly Sales Trend: 
 
 ![image](https://github.com/user-attachments/assets/493519b0-d9a7-475e-b7c6-2c0674bcb733)
+
+- Most sales occur at 19 Hour: 35.21 % More than average
+
 
 ---
 ### Analysis of Payment Types:
@@ -170,6 +226,7 @@
 
  ![image](https://github.com/user-attachments/assets/b0d6e1ca-1673-4eb8-9727-44d7cfa3bf1e)
 
+- Ewallet is used for most transactions
 ---
 
 - Distribution of Payment types in Total Sales Transactions:
