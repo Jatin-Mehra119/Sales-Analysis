@@ -36,19 +36,20 @@
 - **Toal Gross Income**: 15379.368999999999
 - **Average Gross** Income: 15.379368999999999	
 ---
-###  **Average Gross Income by Day of Week**:
-	
-| Day of Week | Average Gross Income |
-|-------------|-----------------------|
-| Sunday           | 14.437744            |
-| Monday           | 15.516047            |
-| Tuesday           | 14.562483            |
-| Wednesday           | 15.648464            |
-| Thursday           | 15.048421            |
-| Friday           | 16.295241            |
-| Saturday           | 15.917613            |
+### **Average Gross Income by Day of Week**:
 
-- Friday has the highest average gross income compared to other days: 6.18 % More than average
+| Day Name   | Average Gross Income |
+|------------|----------------------|
+| Monday     | 14.437744            |
+| Tuesday    | 15.516047            |
+| Wednesday  | 14.562483            |
+| Thursday   | 15.648464            |
+| Friday     | 15.048421            |
+| Saturday   | 16.295241            |
+| Sunday     | 15.917613            |
+
+
+- Saturday has the highest average gross income compared to other days: 6.18 % More than average
 ---
 
 ### **Citywise Sales & Revenue**:
@@ -206,6 +207,25 @@
 - Percentage by which it exceeds the average sales: 8.02%
 
 ---
+
+- Sales Trend in Days of Week:
+
+![image](https://github.com/user-attachments/assets/b01ac67d-0506-4311-83cb-0f526e957059)
+
+| Day Name   | Total       |
+|------------|-------------|
+| Monday     | 37899.0780  |
+| Tuesday    | 51482.2455  |
+| Wednesday  | 43731.1350  |
+| Thursday   | 45349.2480  |
+| Friday     | 43926.3405  |
+| Saturday   | 56120.8095  |
+| Sunday     | 44457.8925  |
+
+
+- Day with highest sales: Saturday Day of Week with 56120.8095 sales more than average by 21.64%
+
+---
 - Hourly Sales Trend: 
 
 ![image](https://github.com/user-attachments/assets/493519b0-d9a7-475e-b7c6-2c0674bcb733)
@@ -254,4 +274,102 @@
 - Product line Sales by Payment method
 
 ![image](https://github.com/user-attachments/assets/83fa5f53-edd9-4853-99fd-51ce39bc3fa3)
+
+
+# Q & A
+
+#### **Q1: Which city generates the highest sales and gross income?**
+
+-   **Answer:**  
+    Naypyitaw generates the highest sales and gross income with **110,568.71 in sales** and **5,265.18 in gross income**, surpassing the average by **2.71%**.  
+    **Insight:** Focus on strengthening marketing campaigns in Naypyitaw to sustain and expand this lead.
+
+----------
+
+#### **Q2: Which customer type contributes more to sales and gross income?**
+
+-   **Answer:**  
+    Members outperform normal customers with **164,223.44 in sales** and **7,820.16 in gross income**, accounting for **3.45% more than average sales** and **2.20% higher quantities sold**.  
+    **Insight:** Membership loyalty programs are effective. Consider adding exclusive perks to retain members.
+
+----------
+
+#### **Q3: How does gender influence sales and gross income?**
+
+-   **Answer:**  
+    Female customers lead with **167,882.93 in sales** and **7,994.43 in gross income**, contributing **3.96% more to gross income** than males.  
+    **Insight:** Tailored promotions for female customers, especially in **Health and Beauty** and **Fashion Accessories**, could increase engagement.
+
+----------
+
+#### **Q4: What is the most profitable day of the week?**
+
+-   **Answer:**  
+    **Saturday** has the highest average gross income at **16.30**, which is **6.18% above the weekly average**.  
+    **Insight:** Targeted promotions or special events on Saturdays could amplify this trend.
+
+----------
+
+#### **Q5: Which product line has the highest gross income?**
+
+-   **Answer:**  
+    **Food and Beverages** leads with **2,673.56 in gross income**, outperforming the average by **4.30%**.  
+    **Insight:** Expand offerings in this category and consider bundling strategies to boost sales.
+
+----------
+
+#### **Q6: How do payment methods impact sales and customer preferences?**
+
+-   **Answer:**
+    -   **Ewallet** is the most preferred payment method with **345 transactions** but has the lowest average gross income per transaction at **15.18**.
+    -   **Cash** payments generate the highest gross income per transaction at **15.53**.  
+        **Insight:** Incentivize the use of Ewallet through discounts to maintain its popularity while improving profitability.
+
+----------
+
+#### **Q7: What is the trend in ratings?**
+
+-   **Answer:**
+    -   **Branch A (Yangon)** has the highest average rating of **7.03**.
+    -   Normal customers have a slightly better satisfaction score (**7.01**) than members (**6.94**).  
+        **Insight:** Investigate member feedback to enhance their experience and satisfaction levels.
+
+----------
+
+#### **Q8: When do most sales occur during the day?**
+
+-   **Answer:**  
+    The **19th hour (7 PM)** sees the highest sales, **35.21% above the hourly average**.  
+    **Insight:** Boost staffing and optimize inventory replenishment during this peak hour to maximize efficiency.
+
+----------
+
+#### **Q9: What are the top-performing days and hours for product lines?**
+
+-   **Answer:**
+    -   **Food and Beverages** perform best on **Wednesdays** and at **7 PM**, with sales **82.77% above daily average** and **59.45% above hourly average**, respectively.
+    -   **Health and Beauty** sees peak sales on **Tuesdays** and at **2 PM**, with sales **138.88% above the daily average** and **53.28% above hourly average**, respectively.  
+        **Insight:** Develop time-specific campaigns for different product lines to leverage these trends.
+
+----------
+
+#### **Q10: Which product line sells the most quantity?**
+
+-   **Answer:**  
+    **Electronic Accessories** leads with **971 units sold**, exceeding the average quantity by **5.74%**.  
+    **Insight:** Ensure ample stock availability and explore cross-selling opportunities with complementary product lines.
+
+----------
+
+#### **Q11: How does the sales trend evolve over the months?**
+
+-   **Answer:**  
+    January exhibits the highest sales, **8.02% above the average monthly sales**.  
+    **Insight:** Capitalize on this strong start with new year promotions and clearance sales.
+
+----------
+
+## **Conclusion**
+
+Urban Reach Mart's sales are heavily influenced by **location (Naypyitaw)**, **customer type (members)**, and **timing (Fridays, 7 PM)**. Investing in customer loyalty programs, optimizing peak-time operations, and tailoring promotions to customer demographics can drive sustained growth. Payment incentives and product-specific campaigns could further enhance revenue and customer satisfaction. Businesses can **capitalize on the growing preference for E-wallets** by offering exclusive discounts or rewards for digital payments to further encourage adoption.
 
