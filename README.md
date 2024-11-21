@@ -6,7 +6,7 @@
 	- This report aims to analyze sales performance across branches, product lines, Customers, to uncover key insights, pattern of sales, Sales trend and Optimize sales operations.
 ---
 -   **Brief overview of the dataset:**
-	-  **Number of Transactions:** 100
+	-  **Number of Transactions:** 1000
 	- **Time Range:** 1st January 2019 to 30th March 2019
 	- **Data Source** - Kaggle
 	- **Columns:**
