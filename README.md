@@ -1,5 +1,6 @@
-# Urban Reach Mart
+# Urban Reach Mart : [Website](https://jatin-mehra119.github.io/Sales-Analysis-Report_Webiste/)
 **Urban Reach Mart** is a multi-branch retail store operating in three major cities of Myanmar—Mandalay, Naypyitaw, and Yangon. The store offers a wide range of products, spanning six distinct categories: Electronic Accessories, Food and Beverages, Sports and Travel, Home and Lifestyle, Fashion Accessories, and Health and Beauty. Known for its diverse offerings, Urban Reach Mart caters to the everyday needs of customers in urban Myanmar.
+
 
 ## Data Analysis Report
 -   **Objective of the report:** 
